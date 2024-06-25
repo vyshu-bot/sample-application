@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" src="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body style="background-color:pink">
+    <center><h1>AAAAAABRGG</h1></center>
+    <b><p>Email id:vyshnavi@gmail.com</p>
+    <p>PhoneNumber:123456789</p></body></b>
+    <ul>
+        <h4>unOrdered list</h4>
+        <li>tomato</li>
+        <li>potato</li>
+    </ul>
+    <ol>
+        <h4>ordered list</h4>
+        <li> green</li>
+        <li>orange</li>
+    </ol>
+    <div class="button">
+    <button><a href="https://www.w3schools.com/html/">CLICK</a></button>
+    </div>
+</body>
+</html>
